@@ -34,10 +34,10 @@ The repository includes several preprocessed CSV files for building the email gr
 
 ## ⚙️ Code Files
 
-* **PageRank.py**
+* **pagerank.py**
   Implements the PageRank algorithm on the email communication graph.
 
-* **Hits.py**
+* **hits.py**
   Implements the HITS algorithm to compute hub and authority scores.
 
 ---
@@ -47,8 +47,8 @@ The repository includes several preprocessed CSV files for building the email gr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hillary-email-network.git
-   cd hillary-email-network
+   git clone https://github.com/mangoding71/pagerank-and-hists-for-Email-controversy.git
+   cd pagerank-and-hists-for-Email-controversy
    ```
 
 2. Ensure you have Python 3 installed with dependencies (e.g., `networkx`, `pandas`).
