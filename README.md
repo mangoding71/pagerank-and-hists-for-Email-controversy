@@ -56,13 +56,13 @@ The repository includes several preprocessed CSV files for building the email gr
 3. Run PageRank analysis:
 
    ```bash
-   python PageRank.py
+   python pagerank.py
    ```
 
 4. Run HITS analysis:
 
    ```bash
-   python Hits.py
+   python hits.py
    ```
 
 ---
